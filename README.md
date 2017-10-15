@@ -19,3 +19,5 @@ Get real-time notifications from 9/27/2017 to 9/29/2017: <br />
 ```
 get_data_over_period('9/27/2017', 3)
 ```
+### Sample Output: <br />
+![Alt Text](/Subway_notification/Relatives/sample_output.png)
