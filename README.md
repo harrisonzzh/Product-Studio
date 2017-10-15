@@ -8,7 +8,7 @@ We want to natual language processing to analyze subway service change notificat
 * Notification Processing Engine (in working)
 * Transporation Recommendation Engine (in working)
 
-### Example of the notification crawler
+### Examples of the notification crawler
 
 Get real-time notifications on 9/27/2017: <br />
 ```
